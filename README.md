@@ -8,8 +8,8 @@ And to find out in which dependent variables the group means are different, I wa
 But the assumptions for MANOVA need to be met. If not met, as another method, using Box-Plot, the independent
 variable groups' graphs on the dependent variables are examined. The variables with the most different group means can be considered.
 
-# Let's say you found the variables where you can best observe the separation of the classes. And you decided on one of the (linear, radial, polynomial, sigmoid) 
-# hyperplanes. That is when we can start building the SVM model.
+Let's say you found the variables where you can best observe the separation of the classes. And you decided on one of the (linear, radial, polynomial, sigmoid) 
+hyperplanes. That is when we can start building the SVM model.
 
-# Our independent variable = Mission Type
-# Dependent variables = ...
+Our independent variable = Mission Type
+Dependent variables = ...
